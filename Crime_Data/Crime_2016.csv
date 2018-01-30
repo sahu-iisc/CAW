@@ -1,40 +1,40 @@
-STATES,2014,2015,2016,Percent- age State Share To All–India (2016),Rank Based on Incidence / % share (2016),Mid-Year Projected Female Population (in Lakhs) (2016)+,Rate of Total Cognizable Crimes (2016)++,Rank Based on Crime Rate (2016)
-Andhra Pradesh,16526,15967,16362,4.8,8,257.8,63.5,9
-Arunachal Pradesh,351,384,367,0.1,27,6.3,58.7,10
-Assam,19169,23365,20869,6.2,6,158.9,131.3,2
-Bihar,15393,13904,13400,4,12,504.3,26.6,29
-Chhattisgarh,6301,5783,5947,1.8,16,129.5,45.9,18
-Goa,508,392,371,0.1,26,9.2,40.5,20
-Gujarat,10854,7777,8532,2.5,15,297.9,28.7,27
-Haryana,9010,9511,9839,2.9,14,126.5,77.8,6
-Himachal Pradesh,1529,1295,1222,0.4,22,34.7,35.2,24
-Jammu & Kashmir,3327,3366,2850,0.8,20,59.6,47.8,16
-Jharkhand,6086,6568,5453,1.6,17,164.2,33.2,25
-Karnataka,14004,12775,14131,4.2,11,308.6,45.8,19
-Kerala,11451,9767,10034,3,13,182.7,54.9,12
-Madhya Pradesh,28756,24231,26604,7.8,5,373.9,71.1,8
-Maharashtra,26818,31216,31388,9.3,3,574.5,54.6,13
-Manipur,337,266,253,0.1,28,12.9,19.6,32
-Meghalaya,390,337,372,0.1,25,13.8,27,28
-Mizoram,258,158,120,0,30,5.2,23.2,30
-Nagaland,68,91,105,0,32,11.4,9.2,36
-Odisha,14651,17200,17837,5.3,7,211,84.5,3
-Punjab,5481,5340,5105,1.5,18,134.3,38,22
-Rajasthan,31216,28224,27422,8.1,4,350.1,78.3,5
-Sikkim,111,53,153,0,29,3,50.3,15
-Tamil Nadu,6354,5919,4463,1.3,19,346.7,12.9,34
-Telangana,14147,15425,15374,4.5,9,183.6,83.7,4
-Tripura,1618,1267,1013,0.3,23,18.8,53.9,14
-Uttar Pradesh,38918,35908,49262,14.5,1,1037.3,47.5,17
-Uttarakhand,1413,1465,1588,0.5,21,52.2,30.4,26
-West Bengal,38424,33318,32513,9.6,2,456.8,71.2,7
-TOTAL STATE(S),323469,311272,322949,95.3,6025.6,53.6,,
-A & N Islands,117,136,108,0,31,2.7,40.1,21
-Chandigarh,434,468,414,0.1,24,7.3,56.7,11
-D&N Haveli,21,25,28,0,35,2,14.4,33
-Daman & Diu,16,29,41,0,34,1.1,37.3,23
-Delhi UT,15319,17222,15310,4.5,10,95.5,160.4,1
-Lakshadweep,4,9,9,0,36,0.4,21.4,31
-Puducherry,77,82,95,0,33,7.4,12.8,35
-TOTAL UT(S),15988,17971,16005,4.7,116.4,137.6,,
-TOTAL ALL INDIA,339457,329243,338954,100,6142,55.2,,
+States,Case_Reported,Female_Population,Rate_of_Cognizable_Crime
+Andhra Pradesh,16362,257.8,63.5
+Arunachal Pradesh,367,6.3,58.7
+Assam,20869,158.9,131.3
+Bihar,13400,504.3,26.6
+Chhattisgarh,5947,129.5,45.9
+Goa,371,9.2,40.5
+Gujarat,8532,297.9,28.7
+Haryana,9839,126.5,77.8
+Himachal Pradesh,1222,34.7,35.2
+Jammu & Kashmir,2850,59.6,47.8
+Jharkhand,5453,164.2,33.2
+Karnataka,14131,308.6,45.8
+Kerala,10034,182.7,54.9
+Madhya Pradesh,26604,373.9,71.1
+Maharashtra,31388,574.5,54.6
+Manipur,253,12.9,19.6
+Meghalaya,372,13.8,27
+Mizoram,120,5.2,23.2
+Nagaland,105,11.4,9.2
+Odisha,17837,211,84.5
+Punjab,5105,134.3,38
+Rajasthan,27422,350.1,78.3
+Sikkim,153,3,50.3
+Tamil Nadu,4463,346.7,12.9
+Telangana,15374,183.6,83.7
+Tripura,1013,18.8,53.9
+Uttar Pradesh,49262,1037.3,47.5
+Uttarakhand,1588,52.2,30.4
+West Bengal,32513,456.8,71.2
+A & N Islands,108,2.7,40.1
+Chandigarh,414,7.3,56.7
+D&N Haveli,28,2,14.4
+Daman & Diu,41,1.1,37.3
+Delhi UT,15310,95.5,160.4
+Lakshadweep,9,0.4,21.4
+Puducherry,95,7.4,12.8
+TOTAL UT(S),16005,137.6,
+TOTAL STATE(S),322949,53.6,
+TOTAL ALL INDIA,338954,55.2,

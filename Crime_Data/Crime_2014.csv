@@ -1,4 +1,4 @@
-States,Case Reported,Female Population,Rate of Cognizable Crime
+States,Case_Reported,Female_Population,Rate_of_Cognizable_Crime
 Andhra Pradesh,16512,253.5*,65.1
 Arunachal Pradesh,351,6.1,57.4
 Assam,19139,155.1,123.4
@@ -28,7 +28,6 @@ Tripura,1615,18.4,88
 Uttar Pradesh,38467,1004.8,38.3
 Uttarakhand,1395,51,27.4
 West Bengal,38299,448.4,85.4
-TOTAL STATE(S),321993,5888.3,54.7
 A & N Islands,115,2.6,44.2
 Chandigarh,432,6.9,62.3
 D&N Haveli,21,1.9,11.1
@@ -37,4 +36,5 @@ Delhi UT,15265,90.3,169.1
 Lakshadweep,4,0.4,10
 Puducherry,77,7.3,10.6
 TOTAL UT(S),15929,110.4,144.3
+TOTAL STATE(S),321993,5888.3,54.7
 TOTAL ALL INDIA,337922,5998.7,56.3

@@ -1,4 +1,4 @@
-STATES,Rapes,Dowry Deaths,Sexual Harassment,Cruelty by Husband
+STATES,Rapes,Dowry_Deaths,Sexual_Harassment,Domestic_Violence
 Andhra Pradesh,961,215,1072,6362
 Arunachal Pradesh,83,1,21,42
 Assam,1980,188,458,9626
@@ -28,7 +28,6 @@ Tripura,239,33,82,702
 Uttar Pradesh,3467,2469,4435,10471
 Uttarakhand,270,38,22,301
 West Bengal,1466,501,1045,23278
-TOTAL STATE(S),34530,8296,20688,119538
 A & N Islands,32,3,18,14
 Chandigarh,59,2,31,141
 D&N Haveli,5,0,0,6
@@ -37,4 +36,5 @@ Delhi UT,2096,153,1186,3173
 Lakshadweep,1,0,0,0
 Puducherry,10,1,12,4
 TOTAL UT(S),2205,159,1250,3339
+TOTAL STATE(S),34530,8296,20688,119538
 TOTAL ALL INDIA,36735,8455,21938,122877
